@@ -4,11 +4,11 @@ import datamol as dm
 import pandas as pd
 #from rdkit import Chem
 import joblib
-from PIL import Image
-import subprocess
-import os
-import base64
-import io
+#from PIL import Image
+#import subprocess
+#import os
+#import base64
+#import io
 from molfeat.calc import FPCalculator
 from molfeat.trans import MoleculeTransformer
 from molfeat.calc import FP_FUNCS
