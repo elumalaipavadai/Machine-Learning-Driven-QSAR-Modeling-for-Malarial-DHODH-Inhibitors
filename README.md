@@ -23,12 +23,12 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 5. Model deployment using Streamlit web app: [streamlit_GUI_app.py](streamlit_GUI_app.py)
 
 # Results
-[R2 score](image/R2_1.png)
-[R2 score](image/R2_2.png)
+![R2 score](image/R2_1.png)
+![R2 score](image/R2_2.png)
 ![Validation](image/validations.png)
 
 # GUI/How to use the app 
-[Video Guide](image/GUI.m4v)
+![Video Guide](image/GUI.m4v)
 # Installation
 conda env create -f malaria_dhodh.yml or pip install -r requirements.txt or install the required packages manually using pip install package_name or conda install package_name.
 
