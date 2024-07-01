@@ -4,7 +4,7 @@ import datamol as dm
 import pandas as pd
 #from rdkit import Chem
 import joblib
-#from PIL import Image
+from PIL import Image
 #import subprocess
 #import os
 #import base64
