@@ -2,7 +2,7 @@ import streamlit as st
 from molfeat.calc import FP_FUNCS
 import datamol as dm
 import pandas as pd
-from rdkit import Chem
+#from rdkit import Chem
 import joblib
 from PIL import Image
 import subprocess
