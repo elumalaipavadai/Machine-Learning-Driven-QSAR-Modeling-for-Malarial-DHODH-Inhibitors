@@ -2,7 +2,7 @@ catboost
 #datamol
 joblib
 lightgbm
-molfeat
+#molfeat
 pandas
 rdkit-pypi
 #streamlit
