@@ -37,5 +37,5 @@ s3fs
 scipy
 torch
 datamol==0.12.4
-rdkit==2023.09
+rdkit==2023.09.5
 tensorflow
