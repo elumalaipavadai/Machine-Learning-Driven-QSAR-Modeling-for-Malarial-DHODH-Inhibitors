@@ -67,7 +67,7 @@ st.sidebar.markdown("<h2 style='margin-top: 0;'>Upload your SMILES string in CSV
 uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['csv'])
 
 # Display an example input file
-st.sidebar.markdown("""[Example input file](https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/example_acetylcholinesterase.txt)""")
+st.sidebar.markdown("""[Example input file](data/example_data/example.csv)""")
 
 # Sidebar
 st.sidebar.title('2. Choose Your Favorite Model')
