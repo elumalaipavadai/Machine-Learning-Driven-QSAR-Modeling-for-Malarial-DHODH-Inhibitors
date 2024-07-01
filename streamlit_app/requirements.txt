@@ -5,7 +5,6 @@
 catboost
 datamol
 joblib
-jupyterlab
 lightgbm
 molfeat
 pandas
