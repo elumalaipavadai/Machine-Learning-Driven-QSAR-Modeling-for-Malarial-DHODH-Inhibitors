@@ -78,10 +78,10 @@ model_names = ['cat_model', 'lgbm_model', 'xgb_model', 'hgbr_model']  # Replace 
 
 # Map each model name to its directory
 model_directories = {
-    'cat_model': '../data/model_data/cat_model.joblib',
-    'lgbm_model': '../data/model_data/lgbm_model.joblib',
-    'xgb_model': '../data/model_data/xgb_model.joblib',
-    'hgbr_model': '../data/model_data/hgbr_model.joblib'
+    'cat_model': '../../data/model_data/cat_model.joblib',
+    'lgbm_model': '../../data/model_data/lgbm_model.joblib',
+    'xgb_model': '../../data/model_data/xgb_model.joblib',
+    'hgbr_model': '../../data/model_data/hgbr_model.joblib'
 }
 
 # Let the user select a model
@@ -95,7 +95,7 @@ selected_model_directory = model_directories[selected_model_name]
 # Sidebar
 st.sidebar.title('3. Make Prediction')
 # Load the selected model
-model = joblib.load(f'data/model_data/{selected_model_name}.joblib')
+model = joblib.load(f'../data/model_data/{selected_model_name}.joblib')
 
 
 if st.sidebar.button('Predict Activity'):
