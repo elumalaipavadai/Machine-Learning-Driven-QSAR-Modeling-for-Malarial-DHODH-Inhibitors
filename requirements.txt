@@ -13,7 +13,7 @@
 #rdkit==2021.09
 #datamol==0.7.1
 #molfeat==0.4.2
-python==3.12.3
+#python==3.12.3
 catboost==1.2.5
 chembl_webresource_client==0.10.9
 datamol==0.12.4
