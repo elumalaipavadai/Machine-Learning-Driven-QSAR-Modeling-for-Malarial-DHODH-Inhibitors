@@ -4,7 +4,7 @@ joblib
 lightgbm
 #molfeat
 pandas
-rdkit-pypi
+#rdkit-pypi
 #streamlit
 xgboost
 #mordred==1.2.0
@@ -14,8 +14,8 @@ rdkit
 scikit-learn
 scipy
 seaborn
-datamol==0.1.3
-streamlit==1.36.0
+#datamol==0.1.3
+streamlit
 fsspec
 importlib-resources
 joblib
@@ -32,4 +32,16 @@ scipy
 selfies
 tqdm
 typing-extensions
+filelock
+gcsfs
+h5py
+mordredcommunity
+pmapper
+pyarrow
+pydantic
+python-dotenv
+pyyaml
+s3fs
+scipy
+torch
 
