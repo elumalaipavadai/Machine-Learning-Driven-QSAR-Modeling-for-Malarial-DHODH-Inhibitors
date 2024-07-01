@@ -7,12 +7,9 @@ datamol
 joblib
 jupyterlab
 lightgbm
-matplotlib-base
 molfeat
 mordre
-numpy
 pandas
-python
 rdkit
 scikit-learn
 streamlit
