@@ -7,11 +7,15 @@ import subprocess
 import os
 import base64
 from rdkit.Chem import Draw
+from rdkit.Chem.Draw import rdDepictor
+from rdkit.Chem import rdChemReactions as rdr
 import io
 from molfeat.calc import FPCalculator
 from molfeat.trans import MoleculeTransformer
 from molfeat.calc import FP_FUNCS
 import datamol as dm
+from rdkit import Chem
+
 
 
 # Page title
