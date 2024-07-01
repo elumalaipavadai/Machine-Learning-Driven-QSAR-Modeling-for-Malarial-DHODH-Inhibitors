@@ -5,7 +5,6 @@ pandas
 xgboost
 multidict
 pillow
-rdkit
 scikit-learn
 scipy
 seaborn
