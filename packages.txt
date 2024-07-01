@@ -1,3 +1,4 @@
 #libXrender
 #libxrender1
-libxrender1
+#libxrender1
+libx11-dev
