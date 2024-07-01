@@ -1,1 +1,2 @@
-libXrender
+#libXrender
+libX*.so
