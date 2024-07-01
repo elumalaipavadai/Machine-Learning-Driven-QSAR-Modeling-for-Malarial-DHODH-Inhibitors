@@ -1,0 +1,21 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+catboost
+datamol
+joblib
+jupyterlab
+lightgbm
+matplotlib-base
+molfeat
+mordre
+numpy
+pandas
+python
+rdkit
+scikit-learn
+streamlit
+xgboost
+sklearn
+
