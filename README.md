@@ -23,7 +23,15 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 5. Model deployment using Streamlit web app: [streamlit_GUI_app.py](streamlit_GUI_app.py)
 
 # Results
-![](image/R2_1.png)
+<![](image/R2_1.png)>
+<![](image/R2_2.png)>
+<style>
+    .custom-img {
+        margin-right: 5px; /* Adjust as needed */
+    }
+</style>
+
+![](image/R2_1.png){:class="custom-img"}
 ![](image/R2_2.png)
 ![Validation](image/validations.png)
 
