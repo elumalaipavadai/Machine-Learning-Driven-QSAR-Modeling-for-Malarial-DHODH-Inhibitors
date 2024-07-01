@@ -1,9 +1,0 @@
-libxrender1
-libcairo2
-libcairo2-dev 
-pkg-config
-libXrender
-pycairo-pgi
-xorg-libxrender
-xorg-libsm
-rmarkdown
