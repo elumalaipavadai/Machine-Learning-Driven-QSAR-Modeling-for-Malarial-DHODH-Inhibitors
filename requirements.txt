@@ -20,7 +20,7 @@ datamol==0.12.4
 joblib==1.4.0
 jupyterlab==4.1.6
 lightgbm==4.3.0
-matplotlib-base==3.8.4
+#matplotlib-base==3.8.4
 molfeat==0.10.0
 mordred==1.2.0
 numpy==1.26.4
