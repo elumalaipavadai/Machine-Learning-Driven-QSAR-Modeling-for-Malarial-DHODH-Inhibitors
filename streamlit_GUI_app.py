@@ -1,5 +1,4 @@
 import streamlit as st
-import datamol as dm
 import pandas as pd
 from rdkit import Chem
 import joblib
@@ -12,6 +11,8 @@ import io
 from molfeat.calc import FPCalculator
 from molfeat.trans import MoleculeTransformer
 from molfeat.calc import FP_FUNCS
+import datamol as dm
+
 
 # Page title
 st.markdown("""
