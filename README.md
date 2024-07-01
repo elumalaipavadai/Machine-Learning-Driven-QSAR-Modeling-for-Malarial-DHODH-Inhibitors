@@ -23,8 +23,8 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 5. Model deployment using Streamlit web app: [streamlit_GUI_app.py](streamlit_GUI_app.py)
 
 # Results
-![Results](image/R2_1.png)
-![Results](image/R2_2.png)
+![](image/R2_1.png)
+![](image/R2_2.png)
 ![Validation](image/validations.png)
 
 # GUI/How to use the appp 
