@@ -8,7 +8,7 @@ joblib
 lightgbm
 molfeat
 pandas
-rdkit
+rdkit-pypi
 streamlit
 xgboost
 
