@@ -38,7 +38,7 @@ pip install streamlit
 ## Run the Streamlit app
 streamlit run streamlit_GUI_app.py
 
-Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://share.streamlit.io/yourusername/yourrepo/app_streamlit.py)
+Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://malariadhodhpredictor.streamlit.app/)
 
 ## Future development
 In the future, I plan to implement a user-friendly interface that will allow for the direct input of the 2D structure of compounds and incorporate ensemble methods to enhance the prediction accuracy and robustness of the models.
