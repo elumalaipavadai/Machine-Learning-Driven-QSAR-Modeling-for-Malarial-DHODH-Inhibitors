@@ -6,6 +6,8 @@ Malaria remains a global health concern, and the emergence of drug-resistant str
 This project addresses the need for novel antimalarial treatments by leveraging robust machine learning approaches for developing Quantitative Structure-Activity Relationship (QSAR) models. By integrating vast datasets of chemical compounds of validated drug target and their drug response profiles (IC50), this project fills critical gaps in traditional drug discovery pipelines, accelerating the identification and optimization of promising lead inhibitors for PfDHODH. The main goals include elucidating the structure-activity relationships of DHODH inhibitors and predicting the efficacy of compounds before they are synthesized and tested experimentally. Through this approach, the project aims to expedite the discovery of effective antimalarial drugs, ultimately contributing to the global effort to combat malaria.
 
 ## Workflow
+![Workflow diagram](example.png)
+
 The workflow involves several steps as explained in the workflow: collect data from the ChEMBL for the drug target, Dihydroorotate Dehydrogenase (CHEMBL3486), data cleaning and preprocessing, exploratory data analysis, more than 20 molecular features/description, and build regression ML QSAR models using hist gradient boosting regressor, support vector regressor, linear regressor, gradient boosting regressor, XGB regressor, LGBM regressor, Cat boost regressor, and Random forest regressor, and evaluate the models using metrics such as R2, RMSE and MAE, and 5 and 10 fold cross-validation. Here, I am sharing the code for building a machine-learning model with atom pair molecular descriptors as it shows reasonably promising results compared to the other molecular features. 
 
 ## Data
