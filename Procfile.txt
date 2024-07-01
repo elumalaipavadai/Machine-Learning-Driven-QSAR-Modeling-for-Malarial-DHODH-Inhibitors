@@ -1,2 +1,2 @@
 
-web: sh setup.sh && streamlit run malaria_dhodh_app.py}
+web: sh setup.sh && streamlit run streamlit_GUI_app.py}
