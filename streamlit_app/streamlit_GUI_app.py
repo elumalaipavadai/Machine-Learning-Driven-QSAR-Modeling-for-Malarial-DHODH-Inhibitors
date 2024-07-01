@@ -10,7 +10,7 @@ import joblib
 #import base64
 #import io
 from molfeat.calc import FPCalculator
-from molfeat.trans import MoleculeTransformer
+#from molfeat.trans import MoleculeTransformer
 from molfeat.calc import FP_FUNCS
 
 # Page title
