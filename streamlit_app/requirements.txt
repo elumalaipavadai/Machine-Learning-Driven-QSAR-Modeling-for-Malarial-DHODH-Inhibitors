@@ -8,7 +8,6 @@ joblib
 jupyterlab
 lightgbm
 molfeat
-mordre
 pandas
 rdkit
 scikit-learn
