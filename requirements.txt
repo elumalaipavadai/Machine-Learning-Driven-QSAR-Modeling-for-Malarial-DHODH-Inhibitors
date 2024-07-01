@@ -1,15 +1,11 @@
+streamlit
 catboost
-datamol
 joblib
-jupyterlab
 lightgbm
-matplotlib-base
 molfeat
-mordre
-numpy
+numpy<2
 pandas
 python
 rdkit==2023.09
 datamol==0.12.8
 scikit-learn
-streamlit
