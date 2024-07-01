@@ -2,21 +2,21 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 
-catboost=1.2.5
-chembl_webresource_client=0.10.9
-datamol=0.12.4
-joblib=1.4.0
-jupyterlab=4.1.6
-lightgbm=4.3.0
-matplotlib-base=3.8.4
-molfeat=0.10.0
-mordred=1.2.0
-numpy=1.26.4
-pandas=2.2.2
-plotly=5.22.0
-python=3.12.3
-rdkit=2024.03.1
-scikit-learn=1.4.2
-seaborn=0.13.2
-streamlit=1.33.0
-xgboost=2.0.3
+catboost
+chembl_webresource_client
+datamol
+joblib
+jupyterlab
+lightgbm
+matplotlib-base
+molfeat
+mordred
+numpy
+pandas
+plotly
+python
+rdkit
+scikit-learn
+seaborn
+streamlit
+xgboost
