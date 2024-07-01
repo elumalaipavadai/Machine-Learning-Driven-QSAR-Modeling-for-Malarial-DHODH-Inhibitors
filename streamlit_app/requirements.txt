@@ -38,7 +38,7 @@ pyyaml
 s3fs
 scipy
 torch
-molfeat
+#molfeat
 datamol
 rdkit==2024.3.1
-
+tensorflow
