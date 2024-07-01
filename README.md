@@ -28,7 +28,8 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 ![Validation](image/validations.png)
 
 # GUI/How to use the app 
-![Video Guide](image/GUI.m4v)
+![Animation](image/MalariDHODHPredictor.gif)
+
 # Installation
 conda env create -f malaria_dhodh.yml or pip install -r requirements.txt or install the required packages manually using pip install package_name or conda install package_name.
 
