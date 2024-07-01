@@ -14,7 +14,7 @@ importlib-resources
 joblib
 loguru
 matplotlib
-numpy
+numpy<2
 packaging
 pandas
 pillow
