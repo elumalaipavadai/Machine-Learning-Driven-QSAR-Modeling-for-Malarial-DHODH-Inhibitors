@@ -3,3 +3,4 @@ libcairo2
 libcairo2-dev 
 pkg-config
 libXrender
+pycairo-pgi
