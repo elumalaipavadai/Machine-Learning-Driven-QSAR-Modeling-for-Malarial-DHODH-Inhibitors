@@ -32,7 +32,7 @@ With this app, you can predict how effective a small-molecule compound can inhib
 """, unsafe_allow_html=True)
 
 # Logo image
-image = Image.open('../image/FINAL_malaria.png')
+image = Image.open('../../image/FINAL_malaria.png')
 st.image(image, use_column_width=True)
 st.markdown("""           
 **References**
