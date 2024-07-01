@@ -16,11 +16,11 @@ Human Malaria Parasite Plasmodium falciparum Dihydroorotate Dehydrogenase (PfDHO
 ## Code Description
 The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the code was developed on an osx-64 workstation. The Jupyter Notebooks contain detailed explanations and comments to guide users through each step of the QSAR modeling process, from data collection to model selection.
 
-1. Data collection:[step_1_collect_dataset_PfDHODH.ipynb](notebooks/step_1_collect_dataset_PfDHODH.ipynb)
-2. 2. Data preprocessing
-3. Exploratory Data Analysis (EDA)
-4. Feature engineering, model training, and evaluation and selection   
-5. Model deployment using Streamlit web app
+1. Data collection: [step_1_collect_dataset_PfDHODH.ipynb](notebooks/step_1_collect_dataset_PfDHODH.ipynb)
+2. Data preprocessing: [step_2_preprocess_data_PfDHODH.ipynb](notebooks/step_2_preprocess_data_PfDHODH.ipynb) 
+3. Exploratory Data Analysis (EDA): [step_3_exploratory_data_analysis.ipynb](notebooks/step_3_exploratory_data_analysis.ipynb)
+4. Feature engineering, model training, and evaluation and selection: [step_4_Feature_generation_model_generation, validation and selection_PfDHODH_atompair.ipynb](notebooks/step_4_Feature_generation_model_generation, validation and selection_PfDHODH_atompair.ipynb)
+5. Model deployment using Streamlit web app: [streamlit_GUI_app.py](streamlit_GUI_app.py)
 
 # Results
 
