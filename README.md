@@ -36,7 +36,7 @@ conda env create -f malaria_dhodh.yml or pip install -r requirements.txt or inst
 pip install streamlit
 
 ## Run the Streamlit app
-[streamlit_GUI_app.py] (streamlit_GUI_app.py)
+![streamlit_GUI_app.py] (streamlit_GUI_app.py)
 
 Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://share.streamlit.io/yourusername/yourrepo/app_streamlit.py)
 
