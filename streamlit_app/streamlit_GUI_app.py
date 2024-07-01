@@ -8,7 +8,6 @@ from PIL import Image
 import subprocess
 import os
 import base64
-from rdkit.Chem import Draw
 import io
 from molfeat.calc import FPCalculator
 from molfeat.trans import MoleculeTransformer
