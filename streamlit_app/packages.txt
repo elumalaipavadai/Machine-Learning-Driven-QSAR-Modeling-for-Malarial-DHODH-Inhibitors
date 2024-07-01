@@ -1,1 +1,4 @@
 libxrender1
+libcairo2
+libcairo2-dev 
+pkg-config
