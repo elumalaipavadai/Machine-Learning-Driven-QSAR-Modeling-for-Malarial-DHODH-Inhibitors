@@ -16,4 +16,20 @@ scipy
 seaborn
 datamol==0.1.3
 streamlit==1.36.0
+fsspec
+importlib-resources
+joblib
+loguru
+matplotlib
+numpy
+packaging
+pandas
+pillow
+platformdirs
+rdkit
+scikit-learn
+scipy
+selfies
+tqdm
+typing-extensions
 
