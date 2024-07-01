@@ -2,10 +2,10 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 
-datamol
 joblib
 molfeat
 pandas
-rdkit
+datamol==0.12.4
+rdkit==2023.09
 streamlit
 
