@@ -1,0 +1,9 @@
+Model,Train R²,Test R²
+hgbr_model,0.973,0.81
+svr_model,0.871,0.764
+lr_model,0.994,3.00E-01
+gbr_model,0.892,0.745
+xgb_model,0.994,0.813
+lgbm_model,0.991,0.818
+cat_model,0.968,0.82
+rf_model,0.958,0.786
