@@ -1,13 +1,8 @@
 catboost
-#datamol
 joblib
 lightgbm
-#molfeat
 pandas
-#rdkit-pypi
-#streamlit
 xgboost
-#mordred==1.2.0
 multidict
 pillow
 rdkit
@@ -26,7 +21,6 @@ packaging
 pandas
 pillow
 platformdirs
-rdkit
 scikit-learn
 scipy
 selfies
@@ -44,4 +38,7 @@ pyyaml
 s3fs
 scipy
 torch
+molfeat
+datamol
+rdkit==2024.3.1
 
