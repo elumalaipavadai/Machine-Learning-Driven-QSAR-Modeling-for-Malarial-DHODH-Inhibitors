@@ -10,7 +10,6 @@ lightgbm
 molfeat
 pandas
 rdkit
-scikit-learn
 streamlit
 xgboost
 sklearn
