@@ -29,14 +29,14 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 </a>
 
 # Installation
-conda env create -f malaria_dhodh.yml [Env](malaria_dhodh_env.yml) 
+conda env create -f malaria_dhodh.yml using this [Env](malaria_dhodh_env.yml) 
             or 
-pip install -r requirements.txt [Requirements](requirements.txt)
+pip install -r requirements.txt using this [Requirements](requirements.txt)
             or 
 install the required packages manually using pip install package_name or conda install package_name.
 
 ## Run the Streamlit app locally
-streamlit run streamlit_GUI_app.py [App](streamlit_GUI_app.py)
+streamlit run streamlit_GUI_app.py using this [App](streamlit_GUI_app.py)
 
 ## Deployment of MalariaDHODHPredictor on Streamlit cloud
 Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredictor Streamlit App](https://malariadhodhpredictor.streamlit.app/)
