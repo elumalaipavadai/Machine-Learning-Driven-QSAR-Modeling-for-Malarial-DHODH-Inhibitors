@@ -29,7 +29,7 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 </a>
 
 # Installation
-conda env create -f malaria_dhodh.yml 
+conda env create -f malaria_dhodh.yml [yml file here](malaria_dhodh_env.yml) 
             or 
 pip install -r requirements.txt
             or 
