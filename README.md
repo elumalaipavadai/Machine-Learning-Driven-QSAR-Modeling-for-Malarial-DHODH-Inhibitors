@@ -24,9 +24,11 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 ![R2 score](image/R2_1.png)<br>![R2 score](image/R2_2.png)<br>![Validation](image/validations.png)
 
 # GUI/How to use the app 
-<img src="image/MalariDHODHPredictor.gif" width="900px" height="700px" alt="Malaria DHODH Predictor GIF">
+<a href="image/MalariDHODHPredictor.gif" data-lightbox="image-1">
+  <img src="image/MalariDHODHPredictor.gif" width="500px" height="300px" alt="Malaria DHODH Predictor GIF">
+</a>
 
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 # Installation
 conda env create -f malaria_dhodh.yml 
             or 
