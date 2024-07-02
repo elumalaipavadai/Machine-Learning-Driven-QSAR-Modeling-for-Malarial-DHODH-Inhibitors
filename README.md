@@ -29,9 +29,11 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 ![Animation](image/MalariDHODHPredictor.gif)
 
 # Installation
-conda env create -f malaria_dhodh.yml or pip install -r requirements.txt or install the required packages manually using pip install package_name or conda install package_name.
-
-pip install streamlit
+conda env create -f malaria_dhodh.yml 
+            or 
+pip install -r requirements.txt
+            or 
+install the required packages manually using pip install package_name or conda install package_name.
 
 ## Run the Streamlit app locally
 streamlit run streamlit_GUI_app.py
