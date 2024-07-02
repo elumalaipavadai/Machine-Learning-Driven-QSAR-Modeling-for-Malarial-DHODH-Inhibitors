@@ -38,7 +38,7 @@ install the required packages manually using pip install package_name or conda i
 ## Run the Streamlit app locally
 streamlit run streamlit_GUI_app.py [App](streamlit_GUI_app.py)
 
-## Deployment of MalariaDHODHPredicter on Streamlit cloud
+## Deployment of MalariaDHODHPredictor on Streamlit cloud
 Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://malariadhodhpredictor.streamlit.app/)
 
 ## Future development
