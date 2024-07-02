@@ -24,8 +24,7 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 ![R2 score](image/R2_1.png)<br>![R2 score](image/R2_2.png)<br>![Validation](image/validations.png)
 
 # GUI/How to use the app 
-
-<img "image/MalariDHODHPredictor.gif" width="500px" height="300px" />
+<img src="image/MalariDHODHPredictor.gif" width="500px" height="300px" alt="Malaria DHODH Predictor GIF">
 
 
 # Installation
