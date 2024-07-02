@@ -21,14 +21,7 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 5. Model deployment using Streamlit web app: [streamlit_GUI_app.py](streamlit_GUI_app.py)
 
 # Results
-<img "(image/R2_1.png)" style="margin-right: 10px;" />
-<img "(image/R2_2.png)" style="margin-right: 10px;" />
-<img "(image/validations.png)" />
-
-
-#![R2 score](image/R2_1.png)
-#![R2 score](image/R2_2.png)
-#![Validation](image/validations.png)
+![R2 score](image/R2_1.png)<br>![R2 score](image/R2_2.png)<br>![Validation](image/validations.png)
 
 # GUI/How to use the app 
 ![Animation](image/MalariDHODHPredictor.gif)
