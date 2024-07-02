@@ -25,7 +25,7 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 
 # GUI/How to use the app 
 <a href="image/MalariDHODHPredictor.gif" data-lightbox="image-1">
-  <img src="image/MalariDHODHPredictor.gif" width="700px" height="500px" alt="Malaria DHODH Predictor GIF">
+  <img src="image/MalariDHODHPredictor.gif" width="550px" height="350px" alt="Malaria DHODH Predictor GIF">
 </a>
 
 # Installation
