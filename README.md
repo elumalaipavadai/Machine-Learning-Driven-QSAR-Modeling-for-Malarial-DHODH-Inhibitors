@@ -39,7 +39,7 @@ install the required packages manually using pip install package_name or conda i
 streamlit run streamlit_GUI_app.py [App](streamlit_GUI_app.py)
 
 ## Deployment of MalariaDHODHPredictor on Streamlit cloud
-Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://malariadhodhpredictor.streamlit.app/)
+Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredictor Streamlit App](https://malariadhodhpredictor.streamlit.app/)
 
 ## Future development
 In the future, I plan to implement a user-friendly interface that will allow for the direct input of the 2D structure of compounds and incorporate ensemble methods to enhance the prediction accuracy and robustness of the models.
