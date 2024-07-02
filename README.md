@@ -7,7 +7,6 @@ This project addresses the need for novel antimalarial treatments by leveraging 
 
 ## Workflow
 ![Workflow diagram](image/workflow.png)
-
 The workflow involves several steps as explained in the workflow: collect data from the ChEMBL for the drug target, Dihydroorotate Dehydrogenase (CHEMBL3486), data cleaning and preprocessing, exploratory data analysis, more than 20 molecular features/description, and build regression ML QSAR models using hist gradient boosting regressor, support vector regressor, linear regressor, gradient boosting regressor, XGB regressor, LGBM regressor, Cat boost regressor, and Random forest regressor, and evaluate the models using metrics such as R2, RMSE and MAE, and 5 and 10 fold cross-validation. Here, I am sharing the code for building a machine-learning model with atom pair molecular descriptors as it shows reasonably promising results compared to the other molecular features. 
 
 ## Data
@@ -15,7 +14,6 @@ Human Malaria Parasite Plasmodium falciparum Dihydroorotate Dehydrogenase (PfDHO
 
 ## Code Description
 The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the code was developed on an osx-64 workstation. The Jupyter Notebooks contain detailed explanations and comments to guide users through each step of the QSAR modeling process, from data collection to model selection.
-
 1. Data collection: [step_1_collect_dataset_PfDHODH.ipynb](notebooks/step_1_collect_dataset_PfDHODH.ipynb)
 2. Data preprocessing: [step_2_preprocess_data_PfDHODH.ipynb](notebooks/step_2_preprocess_data_PfDHODH.ipynb) 
 3. Exploratory Data Analysis (EDA): [step_3_exploratory_data_analysis.ipynb](notebooks/step_3_exploratory_data_analysis.ipynb)
@@ -35,9 +33,10 @@ conda env create -f malaria_dhodh.yml or pip install -r requirements.txt or inst
 
 pip install streamlit
 
-## Run the Streamlit app
+## Run the Streamlit app locally
 streamlit run streamlit_GUI_app.py
 
+## MalariaDHODHPredicter deployed on Streamlit cloud
 Malarial DHODH QSAR models in action! Experience the interactive Streamlit app here: [MalariaDHODHPredicter Streamlit App](https://malariadhodhpredictor.streamlit.app/)
 
 ## Future development
