@@ -25,10 +25,9 @@ The codes are provided as a Jupyter Notebook in the "notebooks" folder. All the 
 
 # GUI/How to use the app 
 <a href="image/MalariDHODHPredictor.gif" data-lightbox="image-1">
-  <img src="image/MalariDHODHPredictor.gif" width="500px" height="300px" alt="Malaria DHODH Predictor GIF">
+  <img src="image/MalariDHODHPredictor.gif" width="700px" height="500px" alt="Malaria DHODH Predictor GIF">
 </a>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 # Installation
 conda env create -f malaria_dhodh.yml 
             or 
