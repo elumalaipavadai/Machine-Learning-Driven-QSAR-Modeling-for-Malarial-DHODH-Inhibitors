@@ -99,8 +99,14 @@ selected_model_directory = model_directories[selected_model_name]
 # Sidebar
 st.sidebar.title('3. Make Prediction')
 # Load the selected model
-model = joblib.load(f'data/model_data/{selected_model_name}.joblib')
+#model = joblib.load(f'data/model_data/{selected_model_name}.joblib')
 
+# Load the selected model (cached so it loads once, not on every rerun)
+@st.cache_resource
+def load_model(name):
+    return joblib.load(f'data/model_data/{name}.joblib')
+
+model = load_model(selected_model_name)
 
 if st.sidebar.button('Predict Activity'):
     # Define your DataFrame here
